@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Ronaldo Fonseca !!! 👋
-- 👨‍💻 Sou um Desenvovedor Full Stack
+- 👨‍💻 Sou um Desenvovedor Back End
 - 📚 Atualmente estou estudando Python 
 
 <div style="display: inline_block"><br>
