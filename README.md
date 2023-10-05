@@ -7,9 +7,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"> 
   <img align="center" alt="Excel" height="30" width="40"  src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png"> 
-  <img align="center" alt="SQL Server" height="30" width="40"  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> 
 </div>
 
  ##
